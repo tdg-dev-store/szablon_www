@@ -1,5 +1,4 @@
 Witaj!
-Wejdź na https://dev-store.pl -> zaloguj sie -> utwórz konto -> zaloguj się 
-W panelu znajdziesz hasło do pliku.
+Hasło do pliku to: dev-store-szablon-25715272
 
 Powered by https:/dev-store.pl
